@@ -41,7 +41,7 @@ Before you can use SpinBot, you'll need to install the following:
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/spinbot.git
+git clone https://github.com/Sino1507/Spin-Bot.git
 cd spinbot
 ```
 
