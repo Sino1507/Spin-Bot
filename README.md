@@ -50,7 +50,7 @@ cd Spin-Bot
 For convenience, an `install.bat` file is provided to install all necessary Python packages. Simply double-click the `install.bat` file, or run the following command in your terminal:
 
 ```bash
-./install.bat
+install.bat
 ```
 
 Alternatively, you can manually install the packages using:
