@@ -42,7 +42,7 @@ To get started, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Sino1507/Spin-Bot.git
-cd spinbot
+cd Spin-Bot
 ```
 
 ### 2. Install Required Python Packages
