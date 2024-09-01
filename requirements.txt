@@ -4,3 +4,4 @@ pillow
 pywin32
 pyautoit
 python-dotenv
+opencv-python
