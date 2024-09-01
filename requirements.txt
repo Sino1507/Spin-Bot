@@ -2,5 +2,5 @@ pyautogui
 pytesseract
 pillow
 pywin32
-autoit
+pyautoit
 python-dotenv
